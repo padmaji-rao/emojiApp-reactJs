@@ -1,0 +1,37 @@
+.nav-container {
+  background-color: #ffffff33;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-family: 'Roboto';
+  background-blend-mode: lighten;
+}
+.score-container {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+}
+.logo-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.logo-name {
+  color: white;
+
+  font-size: 20px;
+}
+.score {
+  margin-right: 20px;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+}
+.disp-home {
+  display: none;
+}

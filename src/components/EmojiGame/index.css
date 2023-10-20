@@ -1,0 +1,23 @@
+.bg-container {
+  background: linear-gradient(to right, #9796f0, #fbc7d4);
+  padding-bottom: 30px;
+}
+.emojis-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+.bottom-container {
+  margin-top: 50px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.disp-home {
+  display: none;
+}
